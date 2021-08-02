@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: apka
-          image: apka:1
+          image: apka:2
           imagePullPolicy: Never
           ports:
             - containerPort: 3000
