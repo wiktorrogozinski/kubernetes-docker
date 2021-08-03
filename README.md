@@ -1,10 +1,10 @@
-
-Prerequisites:</br></br>
+Adventure with minikube and docker :) </br></br>
+<b>Prerequisites:</br></br></b>
 -Minikube installed </br> 
 -Ngnix ingress addon installed </br>
 -Yq installed </br>
 
-How to run: </br> </br>
+<b>How to run: </br> </br></b>
 1. Fork the repository.</br>
 2. Navigate to .../Docker-kubernetes/Project</br>
 3. Run the start.sh script.</br>
